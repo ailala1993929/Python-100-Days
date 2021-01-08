@@ -1,3 +1,4 @@
+# coding:utf-8
 """
 用Python的turtle模块绘制国旗
 """
@@ -42,7 +43,7 @@ def draw_star(x, y, radius):
 
 def main():
     """主程序"""
-    turtle.speed(12)
+    #turtle.speed(12)
     turtle.penup()
     x, y = -270, -180
     # 画国旗主体

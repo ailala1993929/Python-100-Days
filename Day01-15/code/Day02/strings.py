@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# coding:utf-8
 """
 字符串常用操作
 

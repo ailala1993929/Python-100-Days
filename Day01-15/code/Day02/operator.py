@@ -1,3 +1,4 @@
+# coding:utf-8
 """
 运算符的使用
 
@@ -12,8 +13,11 @@ c = 3
 d = 4
 e = 5
 a += b
+print a
 a -= c
+print a
 a *= d
+print a
 a /= e
 print("a = ", a)
 
